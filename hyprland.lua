@@ -13,3 +13,6 @@ require("settings.looks")
 require("settings.keybinds")
 require("settings.input")
 require("settings.misc")
+
+-- For Noctalia Color templates
+require("noctalia").apply_theme()

@@ -9,7 +9,7 @@ local ipc = "noctalia msg "
 local ide         = "zeditor"
 local browser     = "zen-browser"
 local terminal    = "ghostty"
-local fileManager = "dolphin"
+local fileManager = "nautilus"
 local menu        = "hyprlauncher"
 
 -- Core binds
